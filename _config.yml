@@ -11,9 +11,9 @@ title                    : "Mohammad's Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Akbari"
 description              : &description "Research Scientist, Machine Learning Specialist, Ph.D. in Applied Mathematics"
-url                      : https://MohaamadAkbari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Mohaamad-Akbari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MohaamadAkbari/MohaamadAkbari.github.io"
+repository               : "MohaamadAkbari/Mohaamad-Akbari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 140
